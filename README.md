@@ -17,4 +17,4 @@ Created Develop and made commit before feature-Z is merged
 
 Commit 1 from feature-Z
 
-Commit 1 feature-Z
+Commit 2 from feature-Z

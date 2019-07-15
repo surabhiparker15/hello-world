@@ -12,3 +12,5 @@ Commit 2 from feature-X
 Commit 1 from feature-Y
 
 Commit 2 from feature-Y
+
+Created Develop and made commit before feature-Z is merged
